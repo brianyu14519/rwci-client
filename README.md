@@ -88,5 +88,5 @@ Sends given raw data directly to the server.
 
 ## Debug Toggle
 
-Toggles debug mode. You can only send DMs to yourself with debug mode enabled.
+Toggles debug mode. You can only send DM's to yourself with debug mode enabled.
 `/debug`
